@@ -1,4 +1,4 @@
-# Hi there 👋
+# I'm Aflah Alifu  👋
 
 I'm a passionate Frontend Developer specializing in crafting dynamic web and mobile applications with React and Flutter. With a solid foundation in software engineering and extensive hands-on experience, I focus on delivering quality and user-friendly solutions.
 
