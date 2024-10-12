@@ -1,25 +1,38 @@
-# I'm Aflah Alifu  👋
+# Hey there, I'm Aflah Alifu! 👋
 
-I'm a passionate Frontend Developer specializing in crafting dynamic web and mobile applications with React and Flutter. With a solid foundation in software engineering and extensive hands-on experience, I focus on delivering quality and user-friendly solutions.
+🎨 **Frontend Developer** | 🚀 **React & Flutter Enthusiast**
 
-Welcome to my GitHub! Here's an overview of my stats and contributions.  
+I'm passionate about crafting dynamic, responsive web and mobile applications using **React** and **Flutter**. With a strong foundation in **software engineering**, I focus on delivering high-quality, user-friendly solutions that solve real-world problems. 
 
-## 🔥 GitHub Stats
+---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ztzrk&show_icons=true&theme=tokyonight)
+### 👨‍💻 About Me:
+- 🌟 **Specialization:** Frontend development with a flair for **UI/UX design**.
+- 💬 **Ask me about:** Anything related to **React**, **Flutter**, or modern web and mobile development.
+- ⚡ **Fun Fact:** I enjoy optimizing user experiences and exploring the latest web and mobile design trends.
 
-## 🔥 Most Used Languages
+---
 
+## 🚀 GitHub Overview:
+
+### 🔥 GitHub Stats:
+![Aflah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ztzrk&show_icons=true&theme=tokyonight)
+
+### 💻 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztzrk&layout=compact&theme=tokyonight)
 
-## 📊 GitHub Streak
-
+### ⚡ GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ztzrk&theme=tokyonight)
 
-## 🏆 GitHub Trophies
-
+### 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ztzrk&theme=onestar)
 
 ---
 
-Thanks for visiting! 🚀
+## ✨ Let's Connect:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ztzrk/)
+
+---
+
+Thanks for stopping by! 🚀 Feel free to check out my projects and connect if you'd like to collaborate on something awesome!
